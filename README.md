@@ -1,40 +1,40 @@
-<h1 align="center">Hi 👋, I'm Sammed Agarkhed !</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sammed03&label=Profile%20views&color=0e75b6&style=flat"
-                alt="sammed03" /> </p>
+# Hi there, I'm Sammed Agarkhed! 👋
 
-<img align="right" alt="Coding" width="400"
-        src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+I'm a passionate **Data Science** enthusiast with a keen interest in **Finance**. I'm currently on a learning journey, exploring the world of data, algorithms, and finance-related insights. 
 
-<p align="left"> <a href="https://twitter.com/agarkhed_sammed" target="blank"><img
-                        src="https://img.shields.io/twitter/follow/agarkhed_sammed?logo=twitter&style=for-the-badge"
-                        alt="agarkhed_sammed" /></a> </p>
+### 📫 Connect with me:
+- Email: [sammed.agarkhed@gmail.com](mailto:sammed.agarkhed@gmail.com)
+- LinkedIn: [Sammed Agarkhed](https://www.linkedin.com/in/sammed-agarkhed)
 
-- 🌱 I’m currently learning **Python and C++**
+---
 
-- 📫 How to reach me : **sammed.agarkhed93@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+### 🔧 My Tech Toolbox:
 <p align="left">
-        <a href="https://twitter.com/agarkhed_sammed" target="blank"><img align="center"
-                        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-                        alt="agarkhed_sammed" height="30" width="40" /></a>
-        <a href="https://linkedin.com/in/sammedagarkhed05" target="blank"><img align="center"
-                        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-                        alt="sammedagarkhed05" height="30" width="40" /></a>
+  <!-- Dynamically generated tech stack with badges using a GitHub Action -->
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+</p>
+---
+
+### ⚡ GitHub Stats:
+<p align="center">
+  <!-- Dynamically generated GitHub Stats using an API -->
+  <img src="https://github-readme-stats.vercel.app/api?username=sammedagarkhed&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sammedagarkhed&theme=radical" alt="GitHub Streaks">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammedagarkhed&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-                        alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank"
-                rel="noreferrer"> <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-                        alt="python" width="40" height="40" /> </a> </p>
+### 🎯 Fun Fact:
+> "I believe that the combination of **Data Science** and **Finance** can unlock powerful insights for smarter decision-making!"
 
-<p><img align="left"
-                src="https://github-readme-stats.vercel.app/api/top-langs?username=sammed03&show_icons=true&theme=tokyonight&locale=en&layout=compact"
-                alt="sammed03" /></p>
+---
 
-<p>&nbsp;<img align="center"
-                src="https://github-readme-stats.vercel.app/api?username=sammed03&show_icons=true&theme=tokyonight&locale=en"
-                alt="sammed03" /></p>
+### ✨ Let's Connect & Build Something Amazing Together!
+Feel free to reach out if you'd like to collaborate on any cool projects or just chat about tech!
